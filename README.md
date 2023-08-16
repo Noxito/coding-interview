@@ -1,2 +1,2 @@
 # coding-interview
-Lista de cursos 
+Lista de cursos de programación 
